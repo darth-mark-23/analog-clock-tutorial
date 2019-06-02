@@ -1,0 +1,3 @@
+This project originally started as a JavaScript tutorial at Lynda.com's "Become a Front-End Web Developer" course (https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) (Become a Front-End Web Developer, JavaScript Essential Training by Morten Rand-Hendriksen, 2017). I decided to change the way the code was written and added some new features based on requests from friends and coworkers.
+
+I'm sure it isn't a model of front-end development best practices (it doesn't even run except as a local file loaded in the browser), but it was useful for me. I am now uploading it to github in order to improve my knowledge of how to use git.
